@@ -19,7 +19,7 @@
   }
   
   \addlyrics {
-    Oft I love to talk with Je -- sus _ _ CH "366"
+    Oh I love to talk with Je -- sus _ _ CH "366"
   }
   
   \midi {
